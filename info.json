@@ -1,0 +1,11 @@
+{
+  "name": "Digital Lew",
+  "symbol": "DLEW",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Digital Lew (DLEW) is a stablecoin pegged to the Bulgarian Lev, built on Polygon.",
+  "website": "https://bugar-dinasty.news",
+  "explorer": "https://polygonscan.com/token/0x2E0980B164e864BD6e30E993AA5C550535e25fe6",
+  "status": "active",
+  "id": "0x2E0980B164e864BD6e30E993AA5C550535e25fe6"
+}
